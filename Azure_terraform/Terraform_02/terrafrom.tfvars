@@ -1,0 +1,1 @@
+size = "Standard_D1_v2"
